@@ -1,0 +1,12 @@
+[
+    {
+        "title": "amazon",
+        "amount": 600.0,
+        "category": "Entertainment"
+    },
+    {
+        "title": "ramen",
+        "amount": 200.0,
+        "category": "Food"
+    }
+]
